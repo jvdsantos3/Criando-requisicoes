@@ -1,0 +1,22 @@
+{
+  "name": "aluraplay-requisicoes",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"https://imgur.com/J3hD21O.png\" alt=\"Javascript: criando requisições\"> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonicaHillman/aluraplay-requisicoes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonicaHillman/aluraplay-requisicoes/issues"
+  },
+  "homepage": "https://github.com/MonicaHillman/aluraplay-requisicoes#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
